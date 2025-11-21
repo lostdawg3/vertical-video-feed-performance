@@ -10,5 +10,5 @@
 </video>
 
 
-[Direct video link](media/samsung-A25-demo1.mp4)
+[Direct video link](samsung-A25-demo1.mp4)
 
