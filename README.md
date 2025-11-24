@@ -30,11 +30,17 @@ Both videos below use the **same architecture**.
   <tr>
     <td align="center">
       <strong>Samsung A25 — Optimized</strong><br><br>
-      https://github.com/user-attachments/assets/AAAAAAAA-AAAA-AAAA-AAAA-AAAAAAAAAAAA
+      <video src="https://github.com/user-attachments/assets/b0ee704f-b289-4ca1-9fd4-9ee58166b069"
+        width="400"
+        controls>
+      </video> 
     </td>
     <td align="center">
       <strong>Samsung S25 — Optimized</strong><br><br>
-      https://github.com/user-attachments/assets/BBBBBBBB-BBBB-BBBB-BBBB-BBBBBBBBBBBB
+      <video src="https://github.com/user-attachments/assets/06420aee-384d-4c64-a445-843cc276149a"
+        width="400"
+        controls>
+      </video>
     </td>
   </tr>
 </table>
