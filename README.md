@@ -174,3 +174,12 @@ This ensures instant playback during fast scrolls.
   - PlayerPool
   - SurfacePool
   - PreloadManager
+
+### **Issues this solve**
+- https://github.com/androidx/media/issues/2493
+- https://github.com/androidx/media/issues/2018
+
+
+
+
+
