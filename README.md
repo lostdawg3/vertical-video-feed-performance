@@ -6,7 +6,7 @@ This repo discusses the requirements for a **working, optimized implementation**
 - ExoPlayer/Media3
 - AndroidView interop
 
-This applies to feeds like **Instagram, Reddit, Pinterest, YouTube** — where each row may contain **video or mixed media**, not the “one item per screen” TikTok/Reels model.
+This applies to feeds like **Instagram, Reddit, Pinterest, YouTube** - where each row may contain **video or mixed media**, not the “one item per screen” TikTok/Reels model.
 
 The goal:  
 **Create a scalable media architecture that performs well on both mid-tier and flagship phones.**
